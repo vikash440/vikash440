@@ -2,9 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://aryng.com/assets/img/ani2.gif")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash440&label=Profile%20views&color=0e75b6&style=flat" alt="vikash440" /> </p>
 
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **Data Analytics and Visualization Projects**
+- 🌱 I’m currently seeking role for Data Analyst/Scientist 
 
 - 📫 How to reach me **vikashkumar30902@gmail.com**
 
