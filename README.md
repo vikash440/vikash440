@@ -19,7 +19,8 @@
 </p>
 
 <h3 align= "left">My Portfolio</h3>
-<h3 align= "left">< href= "https://github.com/vikash440/Glass_detection_Classifier">Glass Detector Classifier</href></h3>a
+<a href= "https://github.com/vikash440/Glass_detection_Classifier">Glass Detector Classifier</a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
