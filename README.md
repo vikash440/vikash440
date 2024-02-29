@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently seeking role for Data Analyst/Scientist
 
-- 🌱 I have working experieince on tools like SQL, Python, R and Advanced Excel
+- 🌱 I have working experieince on tools like SQL, Python, R, Advanced Excel and Machine Learning Models
 
   
 
