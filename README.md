@@ -20,10 +20,10 @@
 
 <h3 align= "left">My Portfolio</h3>
 <a href= "https://github.com/vikash440/Glass_detection_Classifier">1. Glass Detector Classifier</a>
-<a Machine Learning Models: KNN, Multivariate Logistic Regression, Linear Discriminant Analysis </a>
+- Machine Learning Models: KNN, Multivariate Logistic Regression, Linear Discriminant Analysis 
 
 <a href = "https://github.com/vikash440/Spam_Email_Filteration_Classifier">2. Spam Email Filteration Classifier</a>
-<a Machine Learning Models: Univariate Logistic Regression, KNN, Quadratic Discriminant Analysis</a>
+- Machine Learning Models: Univariate Logistic Regression, KNN, Quadratic Discriminant Analysis
 
 
 
