@@ -19,7 +19,7 @@
 </p>
 
 <h3 align= "left">My Portfolio</h3>
-<a href= "https://github.com/vikash440/Glass_detection_Classifier">Glass Detector Classifier</a>
+<h3 <a href= "https://github.com/vikash440/Glass_detection_Classifier">Glass Detector Classifier</a></h3>
 
 
 
