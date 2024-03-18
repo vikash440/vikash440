@@ -13,17 +13,18 @@
 
 
 <h3 align= "left"><b>My Portfolio:</b></h3>
-<a href= "https://github.com/vikash440/Glass_detection_Classifier">1. Glass Detector Classifier</a>
 
-- <b>Language:</b> R 
-- <b>Data Analysis and Visualization:</b> SQL + R
-- <b>Machine Learning Models:</b> KNN, Multivariate Logistic Regression, Linear Discriminant Analysis 
-
-<a href = "https://github.com/vikash440/Glass_detection_Classifier/blob/main/README.md">2. Spam Email Filteration Classifier</a>
+<a href = "https://github.com/vikash440/Glass_detection_Classifier/blob/main/README.md">1. Spam Email Filteration Project</a>
 - <b>Language:</b> R
 - <b>Data Analysis and Visualization:</b> SQL + R
 - <b>Machine Learning Models:</b> Univariate Logistic Regression, KNN, Boosting, Support Vector Machines
 
+<a href= "https://github.com/vikash440/Glass_detection_Classifier/blob/main/README.md">2. Glass Detector Classifier</a>
+
+- <b>Language:</b> R 
+- <b>Data Analysis and Visualization:</b> SQL + R
+- <b>Machine Learning Models:</b> KNN, Multivariate Logistic Regression, Linear Discriminant Analysis, Bagging, Random Forest 
+  
 <a href = "https://github.com/vikash440/Atliq_Mart_Supply_Chain_Power_BI_Project/blob/main/Atliq%20Mart%20Dashboard.pdf">3. Atliq Mart Supply Chain Project</a>
 - <b>Data Analysis:</b> SQL
 - <b>Data Visualization:</b> Power BI 
