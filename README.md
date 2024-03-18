@@ -19,7 +19,7 @@
 - <b>Data Analysis and Visualization:</b> SQL + R
 - <b>Machine Learning Models:</b> KNN, Multivariate Logistic Regression, Linear Discriminant Analysis 
 
-<a href = "https://github.com/vikash440/Spam_Email_Filteration_Classifier">2. Spam Email Filteration Classifier</a>
+<a href = "https://github.com/vikash440/Glass_detection_Classifier/blob/main/README.md">2. Spam Email Filteration Classifier</a>
 - <b>Language:</b> R
 - <b>Data Analysis and Visualization:</b> SQL + R
 - <b>Machine Learning Models:</b> Univariate Logistic Regression, KNN, Quadratic Discriminant Analysis
