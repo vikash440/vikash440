@@ -14,7 +14,7 @@
 
 <h3 align= "left"><b>My Portfolio:</b></h3>
 
-<a href = "https://github.com/vikash440/Glass_detection_Classifier/blob/main/README.md">1. Spam Email Filteration Project</a>
+<a href = "https://github.com/vikash440/Spam_Email_Filteration_Classifier/blob/main/README.md">1. Spam Email Filteration Project</a>
 - <b>Language:</b> R
 - <b>Data Analysis and Visualization:</b> SQL + R
 - <b>Machine Learning Models:</b> Univariate Logistic Regression, KNN, Boosting, Support Vector Machines
