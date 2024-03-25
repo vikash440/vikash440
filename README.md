@@ -27,7 +27,13 @@
   
 <a href = "https://github.com/vikash440/Atliq_Mart_Supply_Chain_Power_BI_Project/blob/main/Atliq%20Mart%20Dashboard.pdf">3. Atliq Mart Supply Chain Project</a>
 - <b>Data Analysis:</b> SQL
-- <b>Data Visualization:</b> Power BI 
+- <b>Data Visualization:</b> Power BI
+
+
+<h3 align="left">Certifications:</h3>
+<a href="https://www.linkedin.com/learning/certificates/6106631ec34c9165589314e18ddc7f857cb228ffc50c83d7b2fda3201483e68b"> 1. Data Dashboards in Power BI</a><br>
+<a href="https://www.linkedin.com/learning/certificates/3b08123756865343b0f6441b94b0f62f6dda13f42c91db73fda5b3140c979f58"> 2. SQL for Data Analysis</a><br>
+<a href="https://www.linkedin.com/learning/certificates/19cd7c6f4f3a72cba8fb8e858d4a501290870ffaa88afa3b70119901b99e6831"> 3. Intermediate SQL for Data Scientists</a>
 
 
 
