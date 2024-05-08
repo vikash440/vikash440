@@ -6,7 +6,6 @@
 
 - 🌱 I have working experieince on tools like SQL, Python, R, Advanced Excel and Machine Learning Models
 
-- <a href = "https://drive.google.com/drive/folders/11oaM2Nn0mW3qn5aW69-j85qPHCtpKrXK?usp=drive_link">My Resume</a>
 
 - 📫 How to reach me **vikashkumar30902@gmail.com**
 
